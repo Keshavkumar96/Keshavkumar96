@@ -1,10 +1,6 @@
-![](https://github.com/Keshavkumar96/Keshavkumar96/blob/main/header.png)
+![keshavkumar96](https://ibb.co/DKyWPCw)
 
-### Hi there 👋
-
-**Keshavkumar96/Keshavkumar96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Keshavkumar
 
 - 🔭 Currently working on iOS Application Development - Swift, MVVM
 - 🌱 Currently learning RxSwift, Combine, Swift UI
