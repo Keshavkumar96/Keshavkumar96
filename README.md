@@ -2,7 +2,8 @@
 
 ### Hi there 👋 I'm Keshavkumar
 
-- 🔭 Currently working on iOS Application Development - Swift, MVVM
+- 🔭 Currently working on iOS Application Development - Swift, MVVM, MVP
+- 🪓 Practising MVVM-C+A, VIPER
 - 🌱 Currently learning RxSwift, Combine, Swift UI
 - 📲 Planning to learn flutter in future
 - 👯 Always looking to collaborate
