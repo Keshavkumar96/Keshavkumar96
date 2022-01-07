@@ -8,5 +8,5 @@
 - 📲 Planning to learn flutter
 - 👯 Always looking to collaborate
 - 💬 Ask me about iOS
-- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/keshav-kumar-04101996/) | [HackerRank](https://www.hackerrank.com/keshavk998)
+- 📫 Let's connect – [LinkedIn](https://www.linkedin.com/in/reachoutkeshav/) | [HackerRank](https://www.hackerrank.com/keshavk998)
 
