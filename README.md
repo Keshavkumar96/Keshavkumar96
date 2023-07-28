@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ### Hi there 👋 I'm Keshavkumar
--🔭 I'm an iOS Engineer, fond of Swift | Swift UI<br>- 👯Always looking to collaborate with software engineers <br>- 📖 I'm currently learning SwiftUI, DSA, and more.<br>- 💬 Ask me about iOS
+-🔭 I'm an Mobile Engineer, fond of Swift | Swift UI | React Native<br>- 👯Always looking to collaborate with software engineers <br>- 📖 I'm currently specializing DSA & System Design.<br>- 💬 Ask me about iOS
 
 
 ## 🌐 Socials:
